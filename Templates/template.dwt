@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Index</title>
+<!-- TemplateEndEditable -->
+<link href="../estilos.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a:link {
+    color: #FDFDFD;
+}
+a:visited {
+    color: #01122B;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="titulo" class="img"><strong>Bookstore MAV</strong></div>
+<div id="menu"><strong><a href="../inicio.html">Inicio</a> | <a href="../romance.html">Romance</a> | <a href="../misterio.html">Misterio</a> | <a href="../sci-fi.html">Sci-Fi</a></strong></div>
+<div id="libros"> <!-- TemplateBeginEditable name="tabla" -->
+  <table width="98%" border="1">
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+<!-- TemplateEndEditable --></div>
+<div id="derechos">Todos los derechos reservados <br>
+    Alma Regina Castellanos Ornelas<br>
+    Maryam Soto Torres<br>
+    Valeria Maldonado Andrade
+</div>
+<div id="redes"><!-- TemplateBeginEditable name="redes" --><img src="1.png" width="231" height="124" alt=""/><!-- TemplateEndEditable -->
+</div>
+</body>
+</html>
